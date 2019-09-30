@@ -1,29 +1,29 @@
-,Website link,Type of data,Data of finding,Institution,Country,Size of dataset (MB),license,type of file,last date accessed,quality of file,License
-is_book,,,,,,,,,,,
-is_paper,https://onepetro.org/conference-paper/SPE-176596-MS?sort=&start=0&q=pvt+analysis+on+oil+well&from_year=&peer_reviewed=&published_between=&fromSearchResults=true&to_year=&rows=25#,is_paper,2015,"SPE Russian Petroleum Technology Conference, 26-28 October, Moscow, Russia",Russia,1 MB,,pvt,2019,been_downloaded,
-is_report,https://onepetro.org/conference-paper/SPE-183407-MS?sort=&start=0&q=pvt+analysis+on+oil+and+gas+well&from_year=2015&peer_reviewed=&published_between=on&fromSearchResults=true&to_year=2019&rows=25#,"is_paper, is_simulation",2016,Abu Dhabi International Petroleum Exhibition & Conference,UAE,2 MB,,pvt,2019,been_downloaded,
-is_simulation,https://opm-project.org/?page_id=197,is_simulation,,OPM,America,,,pvt,2019,,
-is_synthetic,https://www.onepetro.org/conference-paper/PSIG-9505,is_paper,1995,"PSIG Annual Meeting, 18-20 October, Albuquerque, New Mexico",Mexico,1 MB,,tutorial,2019,been_downloaded,
-is_field,https://www.onepetro.org/journal-paper/SPE-189969-PA,"is_field, is_paper",2018,SPE Journal,,1 MB,,model,,,
-is_well,https://www.youtube.com/watch?v=EYYoiNKEuQI,,2017,AWS HPC technologies,America,,,tutorial,,,
-been_tested,https://youtu.be/80SxY8kRNVg,,2016,BRE support tutorials,America,,,tutorial,,,
-been_downloaded,https://opm-project.org/?p=1255,,2019,OPM,America,,,simulation(pdf),,,
-is_corrupted,https://www.researchgate.net/publication/47807814_Development_of_an_Intelligent_System_for_the_Analysis_of_both_Static_and_Real-time_Oil_and_Gas_Well_Drilling_Data/link/54f88be80cf2ccffe9df5515/download,is_paper,2010,University of Calgary,Canada,1.2 MB,,Well data,,been_downloaded,
-,https://www.gov.uk/guidance/oil-and-gas-uk-field-data,is_report,22/01/2013,UK Govt,UK,,,oil well data: offshore and onshore,05/08/2016,been_withdrawn,
-,https://www.gov.uk/guidance/oil-and-gas-uk-field-data,is_report,23/01/2013,UK Govt,UK,,,gas well data: offshore and onshore,05/08/2016,been_withdrawn,
-,https://olemiss.edu/depts/mmri/programs/mize.html,is_report,2005,MMRI ,"Mississippi, America",28.5 MB,,"Mize field data, zip file",,,
-,https://olemiss.edu/depts/mmri/programs/siloam.html,is_report,2006,MMRI ,"Mississippi, America",22.6 MB,,"Siloam field data, zip file",,,
-,https://olemiss.edu/depts/mmri/programs/well_data.html,is_report,,MMRI ,"Mississippi, America",29 KB,,"Well log, Ms Excel",,not_tested,
-,http://130.74.42.249/-RidgwayDataCenterDatabase-2.5.2010.zip,is_report,,MMRI + Mr Julius Ridgway,"Mississippi, America",,,"Well log, zip file",,,
-,https://www.econjournals.com/index.php/ijeep/article/viewFile/185/104,is_paper,2012,"International Journal of Energy Economics and Policy, Department of Diplomacy, National Chenchi University, Taiwan.",Taiwan,802 KB,,pdf,,been_downloaded,
-,https://www.researchgate.net/publication/235194642_The_Development_and_Analysis_of_Intrusion_Detection_Algorithms,is_paper,,,,,,,,,
-,https://www.researchgate.net/publication/314628351_A_Simulation_Approach_for_Optimisation_of_Gas_Lift_Performance_and_Multi-Well_Networking_in_an_Egyptian_Oil_Field,"is_paper, is_simulation",2014,"Offshore Technology Conference-Asia, SPE & SLB",Malaysia,1.9 MB,,pdf,,been_downloaded,
-,https://ags.aer.ca/publications/chapter-32-oil-and-gas-resources,"is_field, is_book",,Alberta Energy Regulator,Canada,,Open Government License - Alberta.,pdf,,,
-,https://ags.aer.ca/publications/chapter-pdfs,"is_field, is_book; chapter 32",,Alberta Energy Regulator,Canada,32 MB,Open Government License - Alberta.,pdf,,,
-,https://ags.aer.ca/publications/OFR_2019_05.html,is_report,2019,Alberta Energy Regulator,Canada,,Open Government License - Alberta.,pdf,,been_downloaded,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,https://arctic.ru/video/20160812/409734.html,is_research,2019,Northern (Arctic) Federal University,Russia,,,,,been_viewed,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,https://www.lukoil.be/pdf/trends_global_oil_eng.pdf,is_report,2013,Lukoil,Russia,9.5 MB,GPL-2,pdf,,,
+,Website link,Type of data,Data of finding,Institution,Country,Size of dataset (MB),license,type of file,last date accessed,quality of file
+is_book,,,,,,MB,,,,
+is_paper,https://onepetro.org/conference-paper/SPE-176596-MS?sort=&start=0&q=pvt+analysis+on+oil+well&from_year=&peer_reviewed=&published_between=&fromSearchResults=true&to_year=&rows=25#,is_paper,2015,"SPE Russian Petroleum Technology Conference, 26-28 October, Moscow, Russia",Russia,1,,pvt,2019,been_downloaded
+is_report,https://onepetro.org/conference-paper/SPE-183407-MS?sort=&start=0&q=pvt+analysis+on+oil+and+gas+well&from_year=2015&peer_reviewed=&published_between=on&fromSearchResults=true&to_year=2019&rows=25#,"is_paper, is_simulation",2016,Abu Dhabi International Petroleum Exhibition & Conference,UAE,2,,pvt,2019,been_downloaded
+is_simulation,https://opm-project.org/?page_id=197,is_simulation,,OPM,America,,,pvt,2019,
+is_synthetic,https://www.onepetro.org/conference-paper/PSIG-9505,is_paper,1995,"PSIG Annual Meeting, 18-20 October, Albuquerque, New Mexico",Mexico,1,,tutorial,2019,been_downloaded
+is_field,https://www.onepetro.org/journal-paper/SPE-189969-PA,"is_field, is_paper",2018,SPE Journal,,1,,model,,
+is_well,https://www.youtube.com/watch?v=EYYoiNKEuQI,,2017,AWS HPC technologies,America,,,tutorial,,
+been_tested,https://youtu.be/80SxY8kRNVg,,2016,BRE support tutorials,America,,,tutorial,,
+been_downloaded,https://opm-project.org/?p=1255,,2019,OPM,America,,,simulation(pdf),,
+is_corrupted,https://www.researchgate.net/publication/47807814_Development_of_an_Intelligent_System_for_the_Analysis_of_both_Static_and_Real-time_Oil_and_Gas_Well_Drilling_Data/link/54f88be80cf2ccffe9df5515/download,is_paper,2010,University of Calgary,Canada,1.2,,Well data,,been_downloaded
+,https://www.gov.uk/guidance/oil-and-gas-uk-field-data,is_report,22/01/2013,UK Govt,UK,,,oil well data: offshore and onshore,05/08/2016,been_withdrawn
+,https://www.gov.uk/guidance/oil-and-gas-uk-field-data,is_report,23/01/2013,UK Govt,UK,,,gas well data: offshore and onshore,05/08/2016,been_withdrawn
+,https://olemiss.edu/depts/mmri/programs/mize.html,is_report,2005,MMRI ,"Mississippi, America",28.5,,"Mize field data, zip file",,
+,https://olemiss.edu/depts/mmri/programs/siloam.html,is_report,2006,MMRI ,"Mississippi, America",22.6,,"Siloam field data, zip file",,
+,https://olemiss.edu/depts/mmri/programs/well_data.html,is_report,,MMRI ,"Mississippi, America",29 KB,,"Well log, Ms Excel",,not_tested
+,http://130.74.42.249/-RidgwayDataCenterDatabase-2.5.2010.zip,is_report,,MMRI + Mr Julius Ridgway,"Mississippi, America",,,"Well log, zip file",,
+,https://www.econjournals.com/index.php/ijeep/article/viewFile/185/104,is_paper,2012,"International Journal of Energy Economics and Policy, Department of Diplomacy, National Chenchi University, Taiwan.",Taiwan,802 KB,,pdf,,been_downloaded
+,https://www.researchgate.net/publication/235194642_The_Development_and_Analysis_of_Intrusion_Detection_Algorithms,is_paper,,,,,,,,
+,https://www.researchgate.net/publication/314628351_A_Simulation_Approach_for_Optimisation_of_Gas_Lift_Performance_and_Multi-Well_Networking_in_an_Egyptian_Oil_Field,"is_paper, is_simulation",2014,"Offshore Technology Conference-Asia, SPE & SLB",Malaysia,1.9,,pdf,,been_downloaded
+,https://ags.aer.ca/publications/chapter-32-oil-and-gas-resources,"is_field, is_book",,Alberta Energy Regulator,Canada,,Open Government License - Alberta.,pdf,,
+,https://ags.aer.ca/publications/chapter-pdfs,"is_field, is_book; chapter 32",,Alberta Energy Regulator,Canada,32,Open Government License - Alberta.,pdf,,
+,https://ags.aer.ca/publications/OFR_2019_05.html,is_report,2019,Alberta Energy Regulator,Canada,,Open Government License - Alberta.,pdf,,been_downloaded
+,https://www.bp.com/content/dam/bp/country-sites/en_br/brazil/home/bp-stats-review-2019-full-report.pdf,is_report,2019,BP,UK,7.7,S&P Global Platts,pdf,,been_downloaded
+,https://www.eia.gov/petroleum/wells/pdf/full_report.pdf,is_report,Sep-18,US EIA,US,10.2,,pdf,,been_downloaded
+,https://arctic.ru/video/20160812/409734.html,is_research,2019,Northern (Arctic) Federal University,Russia,,,,,been_viewed
+,,,,,,,,,,
+,,,,,,,,,,
+,https://www.lukoil.be/pdf/trends_global_oil_eng.pdf,is_report,2013,Lukoil,Russia,9.5 MB,GPL-2,pdf,,
