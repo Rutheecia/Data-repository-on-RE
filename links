@@ -1,4 +1,65 @@
-# Links to data on RE
+# Links to datasets for Reservoir Engineering
+
+[TOC]
+
+## Introduction
+
+1. PVT data
+2. Well data
+3. Field data
+4. Tutorials for simulation
+
+## Papers
+
+## Datasets
+
+## Articles
+
+## Template
+
+title: {the long title of the page}
+
+link: {link to the page}
+
+direct_link: {direct link to the data if present in the same page}
+
+id: {whatever id the document has. Example: SPE-###, DOI: ###}
+
+length: [pages, hours, minutes, rowsxcolumns]
+
+publication_date: 
+
+publisher:
+
+country: 
+
+field_name:
+
+status: [running, error, blank]
+
+data: [yes, no]
+
+is_field: [yes, no] {does data correspond to a complete field?}
+
+is_well: [yes, no]
+
+been_tested: [yes, no] {has the dataset been tested that opens normally?}
+
+been_downloaded: [yes, no] {has the dataset been able to be downloaded?}
+
+is_corrupted: {if dataset has been downloaded doesn't it open because it is corrupted?}
+
+doc_type: [video, report, journal, webpage, dataset, ]
+
+dataset_size: [in kilobytes or megabytes]
+
+
+
+
+
+
+
+
 
 1. https://onepetro.org/conference-paper/SPE-176596-MS?sort=&start=0&q=pvt+analysis+on+oil+well&from_year=&peer_reviewed=&published_between=&fromSearchResults=true&to_year=&rows=25#
 2. [https://onepetro.org/conference-paper/SPE-183407-MS?sort=&start=0&q=pvt+analysis+on+oil+and+gas+well&from_year=2015&peer_reviewed=&published_between=on&fromSearchResults=true&to_year=2019&rows=25#](https://onepetro.org/conference-paper/SPE-183407-MS?sort=&start=0&q=pvt+analysis+on+oil+and+gas+well&from_year=2015&peer_reviewed=&published_between=on&fromSearchResults=true&to_year=2019&rows=25)
@@ -28,10 +89,11 @@
 26. https://www.onepetro.org/conference-paper/SPE-181622-MS?sort=&start=25&q=well+data+from+oil+and+gas+wells&from_year=&peer_reviewed=&published_between=&fromSearchResults=true&to_year=&rows=25#
 27. https://www.onepetro.org/conference-paper/SEG-2007-0856?sort=&start=0&q=well+data+from+oil+and+gas+wells&from_year=&peer_reviewed=&published_between=&fromSearchResults=true&to_year=&rows=25#](https://www.onepetro.org/conference-paper/SEG-2007-0856?sort=&start=0&q=well+data+from+oil+and+gas+wells&from_year=&peer_reviewed=&published_between=&fromSearchResults=true&to_year=&rows=25#
 28. https://www.onepetro.org/journal-paper/SPE-0312-0077-JPT?sort=&start=25&q=well+data+from+oil+and+gas+wells&from_year=&peer_reviewed=&published_between=&fromSearchResults=true&to_year=&rows=25#
-29. https://yandex.ru/video/preview?filmId=12066244410965608136&text=tutorials%20for%20oil%20and%20gas%20well%20simulation&noreask=1&path=wizard&parent-reqid=1570113748998538-761159716443819497100106-vla1-3401&redircnt=1570113820.1](https://yandex.ru/video/preview?filmId=12066244410965608136&text=tutorialsforoilandgaswellsimulation&noreask=1&path=wizard&parent-reqid=1570113748998538-761159716443819497100106-vla1-3401&redircnt=1570113820.1
+29. https://yandex.ru/video/preview?filmId=12066244410965608136&text=tutorials%20for%20oil%20and%20gas%20well%20simulation&noreask=1&path=wizard&parent-reqid=1570113748998538-761159716443819497100106-vla1-3401&redircnt=1570113820.1
 30. https://www.researchgate.net/publication/267563521_MODELING_APPROACH_FOR_PREDICTING_PVT_DATA
 31. https://www.researchgate.net/publication/323233903_STOIIP_validation_for_a_heterogeneous_multi-layered_reservoir_of_a_mature_field_using_an_integrated_3D_geo-cellular_dynamic_model
-32. 
+32. [https://www.researchgate.net/publication/309758281_Rejuvenation_of_a_Mature_Field_Through_STOIIP_Validation_Using_an_Integrated_3D_Geo-Cellular_Dynamic_Model_for_a_Heterogeneous_Multi_Layered_Reservoir]
+33. 
 
 
 
