@@ -278,6 +278,28 @@ length: 68 pages
 
 been_downloaded: yes
 
+### US Field Production of Crude Oil (Thousand Barrels) from 1920-2019
+
+link: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=MCRFPUS1&f=M
+
+direct link: https://www.eia.gov/dnav/pet/hist_xls/MCRFPUS1m.xls
+
+format: xls
+
+publication date: 30th September, 2019
+
+### US Crude Oil Proved Resources from 1890's to 2010's
+
+link: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RCRR01NUS_1&f=A
+
+direct link: https://www.eia.gov/dnav/pet/hist_xls/RCRR01NUS_1a.xls
+
+format: xls
+
+publication date: 28th November, 2018
+
+status: working
+
 ### World Oil Review
 
 link: https://www.eni.com/docs/en_IT/enicom/investors/global-energy-scenarios/WORLD-OIL-REVIEW-2019-Volume-1.pdf
@@ -309,6 +331,42 @@ status: working
 country: Canada
 
 length: 49 pages
+
+### Oil and Gas Exploration and Production in the State of Illinois Shown as Quarter-Mile Cells
+
+link: https://data.world/us-doi-gov/847e1c9a-3c37-4c6b-bd72-43ea07f875c4
+
+direct link: https://query.data.world/s/4d6pjvli7ojkvacpgp3tlnew3fxzgw
+
+id: [doi-gov](https://catalog.data.gov/organization/doi-gov) : 2018-05-21
+
+last updated: 21st May 2018
+
+format: zip file
+
+status: working
+
+country: US
+
+file_size: 84.54 MB
+
+### Nigeria EITI Report 2015
+
+link: https://www.resourcedata.org/dataset/nigeria-eitireport-2015/resource/0265154a-5de7-4cca-83ac-df4a282127b4
+
+direct link: https://www.resourcedata.org/dataset/4e6d9d8a-cfa2-45c7-9ebf-3b990a3f474f/resource/0265154a-5de7-4cca-83ac-df4a282127b4/download/nigeria-eitireport-2015.pdf
+
+id: resource/0265154a-5de7-4cca-83ac-df4a282127b4
+
+publication_date: 2015
+
+format: pdf
+
+status: working
+
+country: Nigeria
+
+file_size: 84.54 MB
 
 ## Articles
 
