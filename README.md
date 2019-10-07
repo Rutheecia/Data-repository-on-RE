@@ -21,7 +21,7 @@ id: SPE-176596-MS
 
 publication_date: 2015
 
-publisher:
+publisher: SPE
 
 length: 12 pages
 
@@ -35,7 +35,7 @@ id: SPE-183407-MS
 
 publication_date: November 2016
 
-publisher:
+publisher: SPE
 
 length: 14 pages
 
@@ -49,7 +49,7 @@ id:  SPE-137414-PA
 
 publication_date: May 2011
 
-publisher:
+publisher: SPE Journal
 
 length: 11 pages
 
@@ -64,7 +64,7 @@ id:   OTC-24703-MS; DOI:10.4043/24703-ms
 
 publication_date: March 2014
 
-publisher:
+publisher: SPE & SLB
 
 length: 14 pages
 
@@ -74,7 +74,7 @@ title: Modeling Approach for Predicting PVT Data
 
 link: https://www.researchgate.net/publication/267563521_MODELING_APPROACH_FOR_PREDICTING_PVT_DATA
 
-id:   
+id:  
 
 publication_date: 2004
 
@@ -115,9 +115,9 @@ Dataset: yes
 
 ### AWS re:Invent 2017: Oil & Gas Reservoir Simulation leveraging AWS HPC technologies a (EUT301)
 
-Link: https://www.youtube.com/watch?v=EYYoiNKEuQI
+title: Oil & Gas REservoir Simulation leveraging AWS HPC technologies
 
-id:
+Link: https://www.youtube.com/watch?v=EYYoiNKEuQI
 
 publication_date: Nov 28, 2017
 
@@ -143,13 +143,63 @@ publication_date: June 22, 2016
 
 length: 41:03
 
-
-
 ## Datasets
 
-### UK Production Data
+### UK Continental Shelf (UKCS) Oil and Gas Production Projections
+
+link: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/503852/OGA_production_projections_-_February_2016.pdf
+
+format: pdf
+
+publication_date: November, 2015
+
+status: working
+
+country: UK
+
+is_field: yes
+
+data_size: 151 KB
+
+### UK Oil and Gas production and Projections of UK Oil and Gas Production and Expenditure 2018 Report 
+
+link: https://www.ogauthority.co.uk/media/5382/oga_projections-of-uk-oil-and-gas-production-and-expenditure.pdf
+
+format: pdf
+
+publication_date: March, 2019
+
+status: working
+
+country: UK
+
+data_size: 1.407 MB
 
 ### Production in oil field units (liquids in barrels, gas in MMscf) - Excel
+
+link: https://www.gov.uk/guidance/oil-and-gas-uk-field-data#uk-production-data
+
+direct_link: https://itportal.decc.gov.uk/pprs/report4.xlsx
+
+publication_date: 
+
+format: xls
+
+status: working
+
+country: UK
+
+### Oil and Gas Resources of the Western Canada Sedimentary Basin
+
+link: https://ags.aer.ca/document/Atlas/chapter_32.pdf
+
+publication_date: 1990
+
+format: pdf
+
+status: working
+
+country: Canada
 
 ### Compilation Of Oil and Gas Well Data for Mize Field, Smith County, Mississippi
 
@@ -197,13 +247,68 @@ is_field: yes
 
 #### All Production Data
 
+data_size: 3.7 MB
+
 #### Field Synopsis
+
+data_size: 9 KB
 
 #### Maps
 
+data_size: 1.8 MB
+
 #### Well Data Info
 
+data_size: 212 KB
 
+## Reports
+
+### The Distribution of U.S. Oil and Natural Gas Wells by Production Rate
+link: https://www.eia.gov/petroleum/wells/pdf/full_report.pdf
+
+format: pdf
+
+publication_date: October, 2018
+
+status: working
+
+country: US
+
+length: 68 pages
+
+been_downloaded: yes
+
+### World Oil Review
+
+link: https://www.eni.com/docs/en_IT/enicom/investors/global-energy-scenarios/WORLD-OIL-REVIEW-2019-Volume-1.pdf
+
+format: pdf
+
+publication_date: 2019
+
+status: working
+
+country: All countries
+
+length: 88 pages
+
+been_downloaded: yes
+
+### Three-Dimensional Property Modelling of the Paskapoo, Porcupine Hills, Scollard and Willow Creek Formations in Southwest Alberta
+
+link: https://ags.aer.ca/document/OFR/OFR_2019_05.pdf
+
+id: OFR/OFR_2019_05
+
+publication_date: June 2019
+
+format: pdf
+
+status: working
+
+country: Canada
+
+length: 49 pages
 
 ## Articles
 
