@@ -261,6 +261,108 @@ data_size: 1.8 MB
 
 data_size: 212 KB
 
+### Norwegian Petroleum Directorate
+
+#### Field production monthly
+
+link: https://factpages.npd.no/Default.aspx?culture=en&nav1=field&nav2=TableViewProductionSaleableMonthly
+
+direct link: https://factpages.npd.no/ReportServer_npdpublic?/FactPages/TableView/field_production_monthly&rs:Command=Render&rc:Toolbar=false&rc:Parameters=f&rs:Format=EXCEL&Top100=false&IpAddress=105.112.50.182&CultureCode=en
+
+format: xls
+
+last synchronised: 8th October, 2019
+
+publication_date: 
+
+status: working
+
+country: Norway
+
+is_field: yes
+
+#### Field production yearly
+
+direct link: https://factpages.npd.no/ReportServer_npdpublic?/FactPages/TableView/field_production_yearly&rs:Command=Render&rc:Toolbar=false&rc:Parameters=f&rs:Format=EXCEL&Top100=false&IpAddress=105.112.50.182&CultureCode=en
+
+format: xls
+
+last synchronised: 8th October, 2019
+
+publication_date: 
+
+status: working
+
+country: Norway
+
+is_field: yes
+
+#### Total field production monthly
+
+direct link: https://factpages.npd.no/ReportServer_npdpublic?/FactPages/TableView/field_production_totalt_NCS_month__DisplayAllRows&rs:Command=Render&rc:Toolbar=false&rc:Parameters=f&rs:Format=EXCEL&Top100=false&IpAddress=105.112.38.80&CultureCode=en
+
+format: xls
+
+last synchronised: 8th October, 2019
+
+publication_date: 
+
+status: working
+
+country: Norway
+
+is_field: yes
+
+#### Total Field Production yearly
+
+direct link: https://factpages.npd.no/ReportServer_npdpublic?/FactPages/TableView/field_production_totalt_NCS_year__DisplayAllRows&rs:Command=Render&rc:Toolbar=false&rc:Parameters=f&rs:Format=EXCEL&Top100=false&IpAddress=105.112.50.182&CultureCode=en
+
+format: xls
+
+last synchronised: 8th October, 2019
+
+status: working
+
+Country: Norway
+
+is_field: yes
+
+#### Wellbore Data for Entry year
+
+direct link: https://factpages.npd.no/ReportServer_npdpublic?/FactPages/Statistics/wellbore_count_figure_entry&rs:Command=Render&rc:Toolbar=false&rc:Parameters=f&rs:Format=EXCEL&IpAddress=105.112.38.80&CultureCode=en
+
+#### Wellbore Data for Completion year
+
+direct link: https://factpages.npd.no/ReportServer_npdpublic?/FactPages/Statistics/wellbore_count_figure_completion&rs:Command=Render&rc:Toolbar=false&rc:Parameters=f&rs:Format=EXCEL&IpAddress=105.112.38.80&CultureCode=en
+
+### Oil and Gas Well Information for Nevada
+
+link: http://www.nbmg.unr.edu/Oil&Gas/NVWellInfo.html
+
+format: mostly pdf
+
+publication_date: 2011
+
+status: working
+
+country: Nevada
+
+#### Nevada Oil and Gas Production and Injection Data 
+
+link: http://www.nbmg.unr.edu/Oil&Gas/ProductionInjection/index.html
+
+format: pdf
+
+publication_date: 2011
+
+status: working
+
+country: Nevada
+
+#### Complete GIS Dataset
+
+direct link: http://pubs.nbmg.unr.edu/CDP-Prel-assess-CO2-disposal-p/r051z.htm
+
 ## Reports
 
 ### The Distribution of U.S. Oil and Natural Gas Wells by Production Rate
