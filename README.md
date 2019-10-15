@@ -4,6 +4,8 @@
 
 ## Introduction
 
+This repository contains a list of links to papers, reports, videos, articles and datasets with the following sets of data/information:
+
 1. PVT data
 2. Well data
 3. Field data
@@ -53,9 +55,7 @@ publisher: SPE Journal
 
 length: 11 pages
 
-### A Simulation Approach for Optimisation of Gas Lift Performance and Multi-Well Networking in an
-Egyptian Oil Field
-
+### A Simulation Approach for Optimisation of Gas Lift Performance and Multi-Well Networking in an Egyptian Oil Field
 title: A Simulation Approach for Optimisation of Gas Lift Performance and Multi-Well Networking in an Egyptian Oil Field
 
 link: https://www.researchgate.net/publication/314628351_A_Simulation_Approach_for_Optimisation_of_Gas_Lift_Performance_and_Multi-Well_Networking_in_an_Egyptian_Oil_Field
@@ -115,7 +115,7 @@ Dataset: yes
 
 ### AWS re:Invent 2017: Oil & Gas Reservoir Simulation leveraging AWS HPC technologies a (EUT301)
 
-title: Oil & Gas REservoir Simulation leveraging AWS HPC technologies
+title: Oil & Gas Reservoir Simulation leveraging AWS HPC technologies
 
 Link: https://www.youtube.com/watch?v=EYYoiNKEuQI
 
@@ -132,6 +132,30 @@ link: https://youtu.be/80SxY8kRNVg
 publication_date: Mar 23, 2016
 
 length: 2:19
+
+### Intersect High Resolution Simulator
+
+title: Intersect High Resolution Simulator
+
+link: https://www.software.slb.com/videos/intersect-high-resolution-simulator
+
+publication_date: July, 2019
+
+publisher: Schlumberger
+
+length: 2:21
+
+### Prospect Assessment driven by Petroleum System Modeling
+
+title: Prospect Assessment Driven by Petroleum System Modeling
+
+link: https://www.software.slb.com/videos/prospect-assessment-driven-by-petroleum-system-modeling
+
+publication_date: August, 2019
+
+publisher: Schlumberger
+
+length: 16:41
 
 ### SPE Bangkok Lecture: NextGen Oil & Gas Simulators
 
@@ -366,6 +390,8 @@ direct link: http://pubs.nbmg.unr.edu/CDP-Prel-assess-CO2-disposal-p/r051z.htm
 ## Reports
 
 ### The Distribution of U.S. Oil and Natural Gas Wells by Production Rate
+title: The Distribution of U.S. Oil and Natural Gas Wells by Production Rate
+
 link: https://www.eia.gov/petroleum/wells/pdf/full_report.pdf
 
 format: pdf
@@ -382,6 +408,8 @@ been_downloaded: yes
 
 ### US Field Production of Crude Oil (Thousand Barrels) from 1920-2019
 
+title: US Field Production of Crude Oil (Thousand Barrels) from 1920-2019
+
 link: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=MCRFPUS1&f=M
 
 direct link: https://www.eia.gov/dnav/pet/hist_xls/MCRFPUS1m.xls
@@ -391,6 +419,8 @@ format: xls
 publication date: 30th September, 2019
 
 ### US Crude Oil Proved Resources from 1890's to 2010's
+
+title: US Crude Oil Proved Resources from 1890's to 2010's
 
 link: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RCRR01NUS_1&f=A
 
@@ -403,6 +433,8 @@ publication date: 28th November, 2018
 status: working
 
 ### World Oil Review
+
+title: World Oil Review
 
 link: https://www.eni.com/docs/en_IT/enicom/investors/global-energy-scenarios/WORLD-OIL-REVIEW-2019-Volume-1.pdf
 
@@ -420,6 +452,8 @@ been_downloaded: yes
 
 ### Three-Dimensional Property Modelling of the Paskapoo, Porcupine Hills, Scollard and Willow Creek Formations in Southwest Alberta
 
+title: Three-Dimensional Property Modelling of the Paskapoo, Porcupine Hills, Scollard and Willow Creek Formations in Southwest Alberta
+
 link: https://ags.aer.ca/document/OFR/OFR_2019_05.pdf
 
 id: OFR/OFR_2019_05
@@ -435,6 +469,8 @@ country: Canada
 length: 49 pages
 
 ### Oil and Gas Exploration and Production in the State of Illinois Shown as Quarter-Mile Cells
+
+title: Oil and Gas Exploration and Production in the State of Illinois Shown as Quarter-Mile Cells
 
 link: https://data.world/us-doi-gov/847e1c9a-3c37-4c6b-bd72-43ea07f875c4
 
@@ -454,6 +490,8 @@ file_size: 84.54 MB
 
 ### Nigeria EITI Report 2015
 
+title: Nigeria EITI Report 2015
+
 link: https://www.resourcedata.org/dataset/nigeria-eitireport-2015/resource/0265154a-5de7-4cca-83ac-df4a282127b4
 
 direct link: https://www.resourcedata.org/dataset/4e6d9d8a-cfa2-45c7-9ebf-3b990a3f474f/resource/0265154a-5de7-4cca-83ac-df4a282127b4/download/nigeria-eitireport-2015.pdf
@@ -468,7 +506,7 @@ status: working
 
 country: Nigeria
 
-file_size: 84.54 MB
+file_size: 7.5 MB
 
 ## Articles
 
@@ -495,8 +533,6 @@ download OPM: https://opm-project.org/?page_id=36
 publication_date: 
 
 length: 6 pages
-
-doc_type: Dataset
 
 ## Template
 
