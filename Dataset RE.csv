@@ -1,0 +1,50 @@
+,,Compilation of links to datasets on Reservoir Engineering,,,,,,,
+Introduction,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Papers,,title,link,id,publication_date,publisher,length,,format
+,,Analysis of Black oil Correlations for PVT properties Estimation,https://onepetro.org/conference-paper/SPE-176596-MS?sort=&start=0&q=pvt+analysis+on+oil+well&from_year=&peer_reviewed=&published_between=&fromSearchResults=true&to_year=&rows=25#,SPE-176596-MS,2015,SPE,12 pages,,pdf
+,,Evaluation of Efficiency Gas EOR Techniques using Advanced PVT model,https://onepetro.org/conference-paper/SPE-183407-MS?sort=&start=0&q=pvt+analysis+on+oil+and+gas+well&from_year=2015&peer_reviewed=&published_between=on&fromSearchResults=true&to_year=2019&rows=25#,SPE-183407-MS ,"November, 2016",SPE,14 pages,,pdf
+,,Analysing Production Data from tight oil wells,https://www.onepetro.org/journal-paper/SPE-137414-PA?sort=&start=0&q=well+data+from+oil+and+gas+wells&from_year=&peer_reviewed=&published_between=&fromSearchResults=true&to_year=&rows=25#,SPE-137414-PA,May-11,SPE Journal,11 pages,,pdf
+,,A Simulation Approach for Optimisation of Gas Lift Performance and Multi-Well Networking in an Egyptian Oil Field,https://www.researchgate.net/publication/314628351_A_Simulation_Approach_for_Optimisation_of_Gas_Lift_Performance_and_Multi-Well_Networking_in_an_Egyptian_Oil_Field,DOI:10.4043/24703-ms ,Mar-14,"SPE,Slb",14 pages,,pdf
+,,Modeling Approach for Predicting PVT Data,https://www.researchgate.net/publication/267563521_MODELING_APPROACH_FOR_PREDICTING_PVT_DATA,,2004,Engineering Journal of the University of Qatar,28 pages,,pdf
+,,STOIIP validation for a heterogeneous multi-layered reservoir of a mature field using an integrated 3D geo-cellular dynamic model,https://www.researchgate.net/publication/323233903_STOIIP_validation_for_a_heterogeneous_multi-layered_reservoir_of_a_mature_field_using_an_integrated_3D_geo-cellular_dynamic_model,DOI:10.1016/j.ejpe.2018.01.004 ,Jan-18,Engineering Journal of Petroleum,10 pages,,pdf
+,,Rejuvenation_of a Mature Field Through STOIIP Validation Using an Integrated 3D Geo-Cellular Dynamic Model for a Heterogeneous Multi Layered Reservoir,https://www.researchgate.net/publication/309758281_Rejuvenation_of_a_Mature_Field_Through_STOIIP_Validation_Using_an_Integrated_3D_Geo-Cellular_Dynamic_Model_for_a_Heterogeneous_Multi_Layered_Reservoir,SPE-183565-MS,"November, 2016",SPE,28 pages,,pdf
+,,Peculiarities of Identification of Reservoir Fluids Properties of Two-Phase With Oil Rim and Gas Cap Deposits: From Sampling to Justification of the Parameters for Calculating Reserves and PVT Data for Hydrodynamic Simulation of Field Development,https://onepetro.org/conference-paper/SPE-191566-18RPTC-MS?sort=&start=25&q=pvt+data+from+oil+and+gas+wells&from_year=2015&peer_reviewed=&published_between=on&fromSearchResults=true&to_year=2019&rows=25#,SPE-191566-18RPTC-MS,Jul-18,SPE,12 pages,,pdf
+,,Empirical PVT Correlations Applied for Colombian Crude Oils: A New Approach,https://onepetro.org/conference-paper/SPE-185565-MS?sort=&start=25&q=pvt+data+from+oil+and+gas+wells&from_year=2015&peer_reviewed=&published_between=on&fromSearchResults=true&to_year=2019&rows=25#,SPE-185565-MS,2017,SPE,17 pages,,pdf
+,,The PVT properties of the Ecuadorian Crude oils,https://onepetro.org/conference-paper/SPE-185483-MS?sort=&start=0&q=pvt+data+from+oil+and+gas+wells&from_year=2015&peer_reviewed=&published_between=on&fromSearchResults=true&to_year=2019&rows=25#,SPE-185483-MS,Jul-17,SPE,30 pages,,pdf
+,,,,,,,,,
+Videos,,Oil & Gas Reservoir Simulation leveraging AWS HPC technologies,https://www.youtube.com/watch?v=EYYoiNKEuQI,,"November 28, 2017",,40:07:00,,
+,,Single Oils,https://youtu.be/80SxY8kRNVg,,"March 23, 2016",,02:19,,
+,,Intersect High Resolution Simulator,https://www.software.slb.com/videos/intersect-high-resolution-simulator,,"July, 2019",Schlumberger,02:21,,
+,,Prospect Assessment driven by Petroleum System Modeling,https://youtu.be/80SxY8kRNVg,,"June 22, 2016",Schlumberger,41:03:00,,
+,,Effect of OBM Contamination On PVT Properties And Its Impact On Field Development,https://onepetro.org/presentation/SPE-174941-PT?sort=&start=25&q=pvt+analysis+on+oil+and+gas+well&from_year=2015&peer_reviewed=&published_between=on&fromSearchResults=true&to_year=2019&rows=25#,SPE-174941-PT,2015,SPE,,,
+,,,,,,,,,
+Datasets,,UK Continental Shelf (UKCS) Oil and Gas Production Projections,https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/503852/OGA_production_projections_-_February_2016.pdf,,"November, 2015",UK,151 KB,,pdf
+,,UK Oil and Gas production and Projections of UK Oil and Gas Production and Expenditure 2018 Report ,https://www.ogauthority.co.uk/media/5382/oga_projections-of-uk-oil-and-gas-production-and-expenditure.pdf,,Mar-19,UK,1.407 MB,,pdf
+,,"Production in oil field units (liquids in barrels, gas in MMscf)",https://www.gov.uk/guidance/oil-and-gas-uk-field-data#uk-production-data,,,UK,,https://itportal.decc.gov.uk/pprs/report4.xlsx,
+,,Oil and Gas Resources of the Western Canada Sedimentary Basin,https://ags.aer.ca/document/Atlas/chapter_32.pdf,,1990,Canada,,,
+,,"Compilation Of Oil and Gas Well Data for Mize Field, Smith County, Mississippi",https://olemiss.edu/depts/mmri/programs/mize.html,,May-05,US,5.191 MB,,qpw
+,,"Compilation Of Oil and Gas Well Data for Siloam Field, Clay County, Mississippi",https://olemiss.edu/depts/mmri/programs/siloam.html,,Feb-06,US,5.621 MB,,qpw
+,Norwegian Petroleum Directorate,,,,08-Oct-19,Norway,,,
+,,Field production monthly,https://factpages.npd.no/ReportServer_npdpublic?/FactPages/TableView/field_production_monthly&rs:Command=Render&rc:Toolbar=false&rc:Parameters=f&rs:Format=EXCEL&Top100=false&IpAddress=105.112.50.182&CultureCode=en,,08-Oct-19,Norway,,,xls
+,,Field production yearly,https://factpages.npd.no/ReportServer_npdpublic?/FactPages/TableView/field_production_yearly&rs:Command=Render&rc:Toolbar=false&rc:Parameters=f&rs:Format=EXCEL&Top100=false&IpAddress=105.112.50.182&CultureCode=en,,08-Oct-19,Norway,,,xls
+,,Total field production monthly,https://factpages.npd.no/ReportServer_npdpublic?/FactPages/TableView/field_production_totalt_NCS_month__DisplayAllRows&rs:Command=Render&rc:Toolbar=false&rc:Parameters=f&rs:Format=EXCEL&Top100=false&IpAddress=105.112.38.80&CultureCode=en,,08-Oct-19,Norway,,,xls
+,,Total Field Production yearly,https://factpages.npd.no/ReportServer_npdpublic?/FactPages/TableView/field_production_totalt_NCS_year__DisplayAllRows&rs:Command=Render&rc:Toolbar=false&rc:Parameters=f&rs:Format=EXCEL&Top100=false&IpAddress=105.112.50.182&CultureCode=en,,08-Oct-19,Norway,,,xls
+,,Wellbore Data for Entry year,https://factpages.npd.no/ReportServer_npdpublic?/FactPages/Statistics/wellbore_count_figure_entry&rs:Command=Render&rc:Toolbar=false&rc:Parameters=f&rs:Format=EXCEL&IpAddress=105.112.38.80&CultureCode=en,,,,,,
+,,Wellbore Data for Completion year,https://factpages.npd.no/ReportServer_npdpublic?/FactPages/Statistics/wellbore_count_figure_completion&rs:Command=Render&rc:Toolbar=false&rc:Parameters=f&rs:Format=EXCEL&IpAddress=105.112.38.80&CultureCode=en,,,,,,
+,Oil and Gas Well Information for Nevada,,,,,,,,
+,,Oil and Gas Well Information for Nevada,http://www.nbmg.unr.edu/Oil&Gas/NVWellInfo.html,,2011,Nevada,,,pdf
+,,Nevada Oil and Gas Production and Injection Data ,http://www.nbmg.unr.edu/Oil&Gas/ProductionInjection/index.html,,2011,Nevada,,,pdf
+,,Complete GIS Dataset,http://pubs.nbmg.unr.edu/CDP-Prel-assess-CO2-disposal-p/r051z.htm,,2011,Nevada,,,pdf
+,,,,,,,,,
+Reports,,The Distribution of U.S. Oil and Natural Gas Wells by Production Rate,https://www.eia.gov/petroleum/wells/pdf/full_report.pdf,,Oct-18,US,68 pages,,pdf
+,,US Crude Oil Proved Resources from 1890's to 2010's,https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RCRR01NUS_1&f=A,,30-Sep-19,US,,https://www.eia.gov/dnav/pet/hist_xls/RCRR01NUS_1a.xls,xls
+,,US Field Production of Crude Oil (Thousand Barrels) from 1920-2019,https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=MCRFPUS1&f=M,,30-Sep-19,US,,https://www.eia.gov/dnav/pet/hist_xls/MCRFPUS1m.xls,xls
+,,World Oil Review,https://www.eni.com/docs/en_IT/enicom/investors/global-energy-scenarios/WORLD-OIL-REVIEW-2019-Volume-1.pdf,,2019,,88 pages,,pdf
+,,"Three-Dimensional Property Modelling of the Paskapoo, Porcupine Hills, Scollard and Willow Creek Formations in Southwest Alberta",https://ags.aer.ca/document/OFR/OFR_2019_05.pdf,OFR/OFR_2019_05,Jun-19,Canada,49 pages,,pdf
+,,Oil and Gas Exploration and Production in the State of Illinois Shown as Quarter-Mile Cells,https://data.world/us-doi-gov/847e1c9a-3c37-4c6b-bd72-43ea07f875c4,doi-gov : 2018-05-21,21-May-18,US,84.54 MB,https://query.data.world/s/4d6pjvli7ojkvacpgp3tlnew3fxzgw,zip
+,,Nigeria EITI Report 2015,https://www.resourcedata.org/dataset/nigeria-eitireport-2015/resource/0265154a-5de7-4cca-83ac-df4a282127b4,resource/0265154a-5de7-4cca-83ac-df4a282127b4,07-Jul-15,Nigeria,7.5 MB,https://www.resourcedata.org/dataset/4e6d9d8a-cfa2-45c7-9ebf-3b990a3f474f/resource/0265154a-5de7-4cca-83ac-df4a282127b4/download/nigeria-eitireport-2015.pdf,pdf
+,,,,,,,,,
+Articles,,Foam functionality in OPM flow,https://opm-project.org/?p=1255,,06-Aug-19,,1  page,,
+,,My First Reservoir Simulation,https://opm-project.org/?page_id=197,,,,6 pages,https://github.com/OPM/opm-data/archive/master.zip,

@@ -82,6 +82,54 @@ publisher: Engineering Journal of the University of Qatar
 
 length: 28 pages
 
+### The PVT properties of the Ecuadorian Crude oils
+
+title: The PVT properties of the Ecuadorian Crude oils
+
+link: https://onepetro.org/conference-paper/SPE-185483-MS?sort=&start=0&q=pvt+data+from+oil+and+gas+wells&from_year=2015&peer_reviewed=&published_between=on&fromSearchResults=true&to_year=2019&rows=25#
+
+id: SPE-185483-MS
+
+publication_date: 2017
+
+publisher: SPE
+
+length: 30 pages
+
+doc_size: 2 MB
+
+### Empirical PVT Correlations Applied for Colombian Crude Oils: A New Approach
+
+title: Empirical PVT Correlations Applied for Colombian Crude Oils: A New Approach
+
+link: https://onepetro.org/conference-paper/SPE-185565-MS?sort=&start=25&q=pvt+data+from+oil+and+gas+wells&from_year=2015&peer_reviewed=&published_between=on&fromSearchResults=true&to_year=2019&rows=25#
+
+id: SPE-185565-MS
+
+publication_date: 2017
+
+publisher: SPE
+
+length: 17 pages
+
+doc_size: 3 MB
+
+### Peculiarities of Identification of Reservoir Fluids Properties of Two-Phase With Oil Rim and Gas Cap Deposits: From Sampling to Justification of the Parameters for Calculating Reserves and PVT Data for Hydrodynamic Simulation of Field Development
+
+title: Peculiarities of Identification of Reservoir Fluids Properties of Two-Phase With Oil Rim and Gas Cap Deposits: From Sampling to Justification of the Parameters for Calculating Reserves and PVT Data for Hydrodynamic Simulation of Field Development
+
+link: https://onepetro.org/conference-paper/SPE-191566-18RPTC-MS?sort=&start=25&q=pvt+data+from+oil+and+gas+wells&from_year=2015&peer_reviewed=&published_between=on&fromSearchResults=true&to_year=2019&rows=25#
+
+id: SPE-191566-18RPTC-MS
+
+publication_date: 2018
+
+publisher: SPE
+
+length: 12 pages
+
+doc_size: 1 MB
+
 ### STOIIP validation for a heterogeneous multi-layered reservoir of a mature field using an integrated 3D geo-cellular dynamic model
 title: STOIIP validation for a heterogeneous multi-layered reservoir of a mature field using an integrated 3D geo-cellular dynamic model
 
@@ -157,6 +205,18 @@ publisher: Schlumberger
 
 length: 16:41
 
+### Effect of OBM Contamination On PVT Properties And Its Impact On Field Development
+
+title: Effect of OBM Contamination On PVT Properties And Its Impact On Field Development
+
+link: https://onepetro.org/presentation/SPE-174941-PT?sort=&start=25&q=pvt+analysis+on+oil+and+gas+well&from_year=2015&peer_reviewed=&published_between=on&fromSearchResults=true&to_year=2019&rows=25#
+
+id: SPE-174941-PT
+
+publication_date: 2015
+
+publisher: SPE
+
 ### SPE Bangkok Lecture: NextGen Oil & Gas Simulators
 
 title: NextGen Oil & Gas Simulators
@@ -199,7 +259,7 @@ country: UK
 
 data_size: 1.407 MB
 
-### Production in oil field units (liquids in barrels, gas in MMscf) - Excel
+### Production in oil field units (liquids in barrels, gas in MMscf) 
 
 link: https://www.gov.uk/guidance/oil-and-gas-uk-field-data#uk-production-data
 
