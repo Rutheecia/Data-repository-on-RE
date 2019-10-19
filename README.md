@@ -57,74 +57,6 @@ length: 28 pages
 
 Dataset: yes
 
-## Videos
-
-### AWS re:Invent 2017: Oil & Gas Reservoir Simulation leveraging AWS HPC technologies a (EUT301)
-
-title: Oil & Gas Reservoir Simulation leveraging AWS HPC technologies
-
-Link: https://www.youtube.com/watch?v=EYYoiNKEuQI
-
-publication_date: Nov 28, 2017
-
-length: 40:07
-
-### Single Oils
-
-title: Single Oils
-
-link: https://youtu.be/80SxY8kRNVg
-
-publication_date: Mar 23, 2016
-
-length: 2:19
-
-### Intersect High Resolution Simulator
-
-title: Intersect High Resolution Simulator
-
-link: https://www.software.slb.com/videos/intersect-high-resolution-simulator
-
-publication_date: July, 2019
-
-publisher: Schlumberger
-
-length: 2:21
-
-### Prospect Assessment driven by Petroleum System Modeling
-
-title: Prospect Assessment Driven by Petroleum System Modeling
-
-link: https://www.software.slb.com/videos/prospect-assessment-driven-by-petroleum-system-modeling
-
-publication_date: August, 2019
-
-publisher: Schlumberger
-
-length: 16:41
-
-### Effect of OBM Contamination On PVT Properties And Its Impact On Field Development
-
-title: Effect of OBM Contamination On PVT Properties And Its Impact On Field Development
-
-link: https://onepetro.org/presentation/SPE-174941-PT?sort=&start=25&q=pvt+analysis+on+oil+and+gas+well&from_year=2015&peer_reviewed=&published_between=on&fromSearchResults=true&to_year=2019&rows=25#
-
-id: SPE-174941-PT
-
-publication_date: 2015
-
-publisher: SPE
-
-### SPE Bangkok Lecture: NextGen Oil & Gas Simulators
-
-title: NextGen Oil & Gas Simulators
-
-link: https://youtu.be/80SxY8kRNVg
-
-publication_date: June 22, 2016
-
-length: 41:03
-
 ## Datasets
 
 ### UK Continental Shelf (UKCS) Oil and Gas Production Projections
@@ -465,6 +397,74 @@ status: working
 country: Nigeria
 
 file_size: 7.5 MB
+
+## Videos
+
+### AWS re:Invent 2017: Oil & Gas Reservoir Simulation leveraging AWS HPC technologies a (EUT301)
+
+title: Oil & Gas Reservoir Simulation leveraging AWS HPC technologies
+
+Link: https://www.youtube.com/watch?v=EYYoiNKEuQI
+
+publication_date: Nov 28, 2017
+
+length: 40:07
+
+### Single Oils
+
+title: Single Oils
+
+link: https://youtu.be/80SxY8kRNVg
+
+publication_date: Mar 23, 2016
+
+length: 2:19
+
+### Intersect High Resolution Simulator
+
+title: Intersect High Resolution Simulator
+
+link: https://www.software.slb.com/videos/intersect-high-resolution-simulator
+
+publication_date: July, 2019
+
+publisher: Schlumberger
+
+length: 2:21
+
+### Prospect Assessment driven by Petroleum System Modeling
+
+title: Prospect Assessment Driven by Petroleum System Modeling
+
+link: https://www.software.slb.com/videos/prospect-assessment-driven-by-petroleum-system-modeling
+
+publication_date: August, 2019
+
+publisher: Schlumberger
+
+length: 16:41
+
+### Effect of OBM Contamination On PVT Properties And Its Impact On Field Development
+
+title: Effect of OBM Contamination On PVT Properties And Its Impact On Field Development
+
+link: https://onepetro.org/presentation/SPE-174941-PT?sort=&start=25&q=pvt+analysis+on+oil+and+gas+well&from_year=2015&peer_reviewed=&published_between=on&fromSearchResults=true&to_year=2019&rows=25#
+
+id: SPE-174941-PT
+
+publication_date: 2015
+
+publisher: SPE
+
+### SPE Bangkok Lecture: NextGen Oil & Gas Simulators
+
+title: NextGen Oil & Gas Simulators
+
+link: https://youtu.be/80SxY8kRNVg
+
+publication_date: June 22, 2016
+
+length: 41:03
 
 ## Articles
 
