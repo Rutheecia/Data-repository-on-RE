@@ -103,17 +103,33 @@ status: working
 
 country: UK
 
-### Oil and Gas Resources of the Western Canada Sedimentary Basin
+### CMS Dataa Package
 
-link: https://ags.aer.ca/document/Atlas/chapter_32.pdf
+title: CMS Data Package - 32nd offshore block
 
-publication_date: 1990
+link: https://dataogauthority.blob.core.windows.net/external/DataReleases/OGA/CMS_Datapack.zip
 
-format: pdf
+publication_date: September 11, 2019
+
+format: zip
 
 status: working
 
-country: Canada
+country: UK
+
+### OGA Field Production Points
+
+title: OGA Field Production Points (recent and historic production data)
+
+link: https://data-ogauthority.opendata.arcgis.com/datasets/oga-field-production-points-pprs-wgs84
+
+publication_date: October 23, 2019
+
+format: zip
+
+status: working
+
+country: UK
 
 ### Compilation Of Oil and Gas Well Data for Mize Field, Smith County, Mississippi
 
